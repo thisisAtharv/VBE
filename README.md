@@ -28,7 +28,7 @@ A desktop application built to simulate core banking operations. It provides a s
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/thisisAtharv/VBS.git](https://github.com/thisisAtharv/VBS.git)
+   git clone [https://github.com/thisisAtharv/VBE.git](https://github.com/thisisAtharv/VBE.git)
 ```
 2. **Open the project** in IntelliJ IDEA.
 3. **Add Dependencies:** Ensure `gson-2.11.0.jar` and `json-20220320.jar` are added to your Project Structure/Classpath.
