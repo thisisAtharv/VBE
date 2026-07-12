@@ -1,4 +1,4 @@
-# 🏦 Virtual Banking System (VBS)
+# 🏦 Virtual Banking Engine
 
 A desktop application built to simulate core banking operations. It provides a secure and user-friendly graphical interface for managing accounts, handling financial transactions, and tracking history.
 
